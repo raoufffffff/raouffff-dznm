@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "_id": "687e76dcbcd11fcbbb893b5d",
+    "userId": "687e6758f3512d25e3d8ceed",
+    "name": "just a test",
+    "sTitel": "",
+    "price": 3000,
+    "best": true,
+    "type": "",
+    "imgs": [
+      "https://i.ibb.co/vxKzXDCQ/Capture-d-cran-2025-04-19-055253.jpg",
+      "https://i.ibb.co/3YhxvND9/Capture-d-cran-2025-03-14-065435.jpg"
+    ],
+    "date": "2025-07-21T17:20:28.584Z",
+    "__v": 0
+  }
+]
